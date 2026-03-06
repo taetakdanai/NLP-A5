@@ -67,9 +67,8 @@ This repository contains the solution for Assignment 5 of AT82.05 Artificial Int
 
 The fine-tuned DPO model (LoRA adapters merged into base weights) is available at:
 
-> **`https://huggingface.co/YOUR_HF_USERNAME/qwen2.5-1.5b-truthy-dpo`**
+> **`https://huggingface.co/taetakdanai/qwen2.5-1.5b-truthy-dpo`**
 
-Replace `YOUR_HF_USERNAME` with your actual username after uploading.
 
 ---
 
